@@ -33,7 +33,7 @@ android {
         }
 
         debug {
-            buildConfigField("String", "API_TOKEN", "\"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\"")
+            buildConfigField("String", "API_TOKEN", "\"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\"")
         }
     }
     compileOptions {
